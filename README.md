@@ -56,9 +56,10 @@ Currently there aren’t any DAO Master because no one owns five rights of vote.
 ## Social
 
 * Website: [daomasters.fund](daomasters.fund)
-* Github: https://github.com/julienbrg/dao-masters
-* Gitter: https://gitter.im/dao-masters/community
-* Twitter: https://twitter.com/DaoMasters
-* Telegram: https://t.me/joinchat/FswFJw2XwxmUnHckRIRmQQ
+* Github: [https://github.com/julienbrg/dao-masters](https://github.com/julienbrg/dao-masters)
+* Gitter: [https://gitter.im/dao-masters/community](https://gitter.im/dao-masters/community)
+* Twitter: [https://twitter.com/DaoMasters](https://twitter.com/DaoMasters)
+* Telegram: [https://t.me/joinchat/FswFJw2XwxmUnHckRIRmQQ](https://t.me/joinchat/FswFJw2XwxmUnHckRIRmQQ)
+
 
 [![Join the chat at https://gitter.im/dao-masters/community](https://badges.gitter.im/dao-masters/community.svg)](https://gitter.im/dao-masters/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
