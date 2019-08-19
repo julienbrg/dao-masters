@@ -2,26 +2,22 @@
 
 ## Intro
 
-The *daoists* of [DAO Masters](mainnet.aragon.org/#/daomasters) help communities to launch DAOs for:
+The *daoists* of [DAO Masters](https://mainnet.aragon.org/#/daomasters) help communities to launch DAOs for:
 
 * Federations of orgs
 * Groups of activists
 * Local communities
 * Commons to maintain
 
-[DAO Masters](mainnet.aragon.org/#/daomasters) is deployed on Ethereum at the following address:
+[DAO Masters](https://mainnet.aragon.org/#/daomasters) is deployed on Ethereum at the following address:
 
 [0x3d273d60E04B43668c32b9c1e049B99210Ab8B3F](https://etherscan.io/address/0x3d273d60E04B43668c32b9c1e049B99210Ab8B3F)
 
 Its ENS redirection address is:
 
-[daomasters.eth](https://manager.ens.domains/name/daomasters.eth)
+[daomasters.aragonid.eth](https://manager.ens.domains/name/daomasters.aragonid.eth)
 
 To be enacted, a proposal requires a 50% support and a 20% quorum. Vote duration is set to 2 weeks.
-
-We accept donations in ETH or DAI.
-
-If you need an invoice, please send an Etherscan reference to [invoice@daomasters.fund](mailto:invoice@daomasters.fund).
 
 ## Rules
 
