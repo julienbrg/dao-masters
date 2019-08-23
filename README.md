@@ -5,7 +5,6 @@
 The *daoists* of [DAO Masters](https://mainnet.aragon.org/#/daomasters) help communities to launch DAOs for:
 
 * Federations of orgs
-* Groups of activists
 * Local communities
 * Commons to maintain
 
@@ -19,7 +18,7 @@ Its ENS redirection address is:
 
 To be enacted, a proposal requires a 50% support and a 20% quorum. Vote duration is set to 2 weeks.
 
-## Rules
+## Rules of the game
 
 The *daoists* (members of DAO Masters) get one right of vote in DAO Masters when they join.
 
